@@ -11,9 +11,6 @@ The game dynamically controls the camera and plays full accompaniment backing tr
 Earn stars based on your accuracy and aim for a high score!
 The folder icon allows you to quickly import, play, and share files.
 
-## Songs
-Check out this [list of songs](https://gist.github.com/iliagrigorevdev/d9f25d63100f88d978960e228d128cd0) that you can load and play in the game!
-
 ## Controls
 Tap the piano keys at the bottom of the screen as the falling notes reach the red hit line.
 
